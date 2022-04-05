@@ -1,0 +1,14 @@
+D:\IT\c#\BattleShip\ConsoleApp1\bin\Debug\netcoreapp3.1\BattleShip.exe
+D:\IT\c#\BattleShip\ConsoleApp1\bin\Debug\netcoreapp3.1\BattleShip.deps.json
+D:\IT\c#\BattleShip\ConsoleApp1\bin\Debug\netcoreapp3.1\BattleShip.runtimeconfig.json
+D:\IT\c#\BattleShip\ConsoleApp1\bin\Debug\netcoreapp3.1\BattleShip.runtimeconfig.dev.json
+D:\IT\c#\BattleShip\ConsoleApp1\bin\Debug\netcoreapp3.1\BattleShip.dll
+D:\IT\c#\BattleShip\ConsoleApp1\bin\Debug\netcoreapp3.1\BattleShip.pdb
+D:\IT\c#\BattleShip\ConsoleApp1\obj\Debug\netcoreapp3.1\BattleShip.csproj.AssemblyReference.cache
+D:\IT\c#\BattleShip\ConsoleApp1\obj\Debug\netcoreapp3.1\BattleShip.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\c#\BattleShip\ConsoleApp1\obj\Debug\netcoreapp3.1\BattleShip.AssemblyInfoInputs.cache
+D:\IT\c#\BattleShip\ConsoleApp1\obj\Debug\netcoreapp3.1\BattleShip.AssemblyInfo.cs
+D:\IT\c#\BattleShip\ConsoleApp1\obj\Debug\netcoreapp3.1\BattleShip.csproj.CoreCompileInputs.cache
+D:\IT\c#\BattleShip\ConsoleApp1\obj\Debug\netcoreapp3.1\BattleShip.dll
+D:\IT\c#\BattleShip\ConsoleApp1\obj\Debug\netcoreapp3.1\BattleShip.pdb
+D:\IT\c#\BattleShip\ConsoleApp1\obj\Debug\netcoreapp3.1\BattleShip.genruntimeconfig.cache
